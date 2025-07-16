@@ -14,7 +14,7 @@ This project tackles a multi-class classification problem to predict the **price
 ├── 867_Project_Presentation.pptx              # Presentation explaining the project
 ├── MMA867_ProjectReport.pdf                   # Project Report
 ├── Mobile_Price_Classification.html           # Python notebook containing the model implementation
-├── README.md                                  # Project summary and usage guide
+├── README.md                                  # Summary of the project
 ├── test.csv                                   # Dataset for testing the model
 ├── train.csv                                  # Dataset for training the moddel
 ```
