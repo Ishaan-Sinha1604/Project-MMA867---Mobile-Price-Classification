@@ -75,5 +75,6 @@ This project tackles a multi-class classification problem to predict the **price
 - Logistic Regression performs exceptionally well on PCA-reduced feature space.
 - Feature scaling and dimensionality reduction significantly improved model performance.
 - The model is efficient, interpretable, and highly accurate for this classification task.
+- PCA makes improves the model but introduces complexity in explaining the model and gaining insights from it.
 
 ---
